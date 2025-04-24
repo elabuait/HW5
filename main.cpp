@@ -1,3 +1,15 @@
+
+/*************************************************************************
+** Author : Abueita Elias
+** Program : hw5
+** Date Created : April 24, 2025
+** Date Last Modified : April 24, 2025
+
+** Problem:
+implements a linked list that holds profile object. it stores president info. opens text file, reads, searches, deletes and also displays the information.
+*************************************************************************/
+
+
 #include <iostream>
 #include <fstream>
 #include <sstream>
